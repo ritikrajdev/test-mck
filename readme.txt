@@ -1,4 +1,4 @@
 Hello !!
 
-Creation of factorial function using recursion
+Changing of factorial function from recursion to iteration
 
